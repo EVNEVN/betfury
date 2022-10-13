@@ -1,0 +1,2 @@
+window.open("", "_blank", "top=100, left=100, width=400, height=500, scrollbars=yes, resizable=yes");
+window.close();
